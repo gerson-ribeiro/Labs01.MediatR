@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.WebApp\\Labs01.MediatR.WebApp.csproj": {}
+  },
+  "projects": {
+    "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Application\\Labs01.MediatR.ProductContext.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Application\\Labs01.MediatR.ProductContext.Application.csproj",
+        "projectName": "Labs01.MediatR.ProductContext.Application",
+        "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Application\\Labs01.MediatR.ProductContext.Application.csproj",
+        "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
+        "outputPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "B:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://emixtfs.pkgs.visualstudio.com/Talkture/_packaging/eMix.Talkture/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Persistence\\Labs01.MediatR.ProductContext.Persistence.csproj": {
+                "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Persistence\\Labs01.MediatR.ProductContext.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Domain\\Labs01.MediatR.ProductContext.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Domain\\Labs01.MediatR.ProductContext.Domain.csproj",
+        "projectName": "Labs01.MediatR.ProductContext.Domain",
+        "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Domain\\Labs01.MediatR.ProductContext.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
+        "outputPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "B:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://emixtfs.pkgs.visualstudio.com/Talkture/_packaging/eMix.Talkture/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\Labs01.MediatR.Commons.csproj": {
+                "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\Labs01.MediatR.Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Persistence\\Labs01.MediatR.ProductContext.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Persistence\\Labs01.MediatR.ProductContext.Persistence.csproj",
+        "projectName": "Labs01.MediatR.ProductContext.Persistence",
+        "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Persistence\\Labs01.MediatR.ProductContext.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
+        "outputPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "B:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://emixtfs.pkgs.visualstudio.com/Talkture/_packaging/eMix.Talkture/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Domain\\Labs01.MediatR.ProductContext.Domain.csproj": {
+                "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Domain\\Labs01.MediatR.ProductContext.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.WebApp\\Labs01.MediatR.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.WebApp\\Labs01.MediatR.WebApp.csproj",
+        "projectName": "Labs01.MediatR.WebApp",
+        "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.WebApp\\Labs01.MediatR.WebApp.csproj",
+        "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
+        "outputPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "B:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://emixtfs.pkgs.visualstudio.com/Talkture/_packaging/eMix.Talkture/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Application\\Labs01.MediatR.ProductContext.Application.csproj": {
+                "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR.ProductContext.Application\\Labs01.MediatR.ProductContext.Application.csproj"
+              },
+              "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\Labs01.MediatR.Commons.csproj": {
+                "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\Labs01.MediatR.Commons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\Labs01.MediatR.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\Labs01.MediatR.Commons.csproj",
+        "projectName": "Labs01.MediatR.Commons",
+        "projectPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\Labs01.MediatR.Commons.csproj",
+        "packagesPath": "C:\\Users\\Gerson\\.nuget\\packages\\",
+        "outputPath": "B:\\Users\\Gerson\\Sources\\Labs01.MediatR\\Labs01.MediatR\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "B:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://emixtfs.pkgs.visualstudio.com/Talkture/_packaging/eMix.Talkture/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

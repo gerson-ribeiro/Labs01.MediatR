@@ -1,0 +1,14 @@
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.csprojAssemblyReference.cache
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.AssemblyInfoInputs.cache
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.AssemblyInfo.cs
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.csproj.CoreCompileInputs.cache
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.deps.json
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Domain.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Domain.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.csproj.CopyComplete
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\bin\Debug\netcoreapp3.1\Labs01.MediatR.Commons.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Persistence\bin\Debug\netcoreapp3.1\Labs01.MediatR.Commons.pdb

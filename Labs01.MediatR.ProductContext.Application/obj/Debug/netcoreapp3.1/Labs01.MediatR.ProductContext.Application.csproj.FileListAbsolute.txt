@@ -1,0 +1,16 @@
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.csprojAssemblyReference.cache
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.AssemblyInfoInputs.cache
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.AssemblyInfo.cs
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.deps.json
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.Commons.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Domain.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Persistence.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.Commons.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\bin\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Domain.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.csproj.CopyComplete
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.dll
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.pdb
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR.ProductContext.Application\obj\Debug\netcoreapp3.1\Labs01.MediatR.ProductContext.Application.csproj.CoreCompileInputs.cache

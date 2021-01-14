@@ -21,13 +21,13 @@ namespace Labs01.MediatR.Commons.Configuration.MediatrConfigurations
             services.AddMediatR(typeof(CreateProductCommandHandler).Assembly);
             services.AddMediatR(typeof(UpdateProductPriceCommandHandler).Assembly);
 
-            services.Chain<IProductDiscountStrategy>()
-                .Add<TenPerCentStrategy>()
-                .Add<TwentyPerCentStrategy>()
-                .Add<ThirtyPerCentStrategy>()
-                .Add<FortyPerCentStrategy>()
-                .Add<FiftyPerCentStrategy>()
-                .Configure();
+            //services.Chain<IProductDiscountStrategy>()
+            //    .Add<TenPerCentStrategy>()
+            //    .Add<TwentyPerCentStrategy>()
+            //    .Add<ThirtyPerCentStrategy>()
+            //    .Add<FortyPerCentStrategy>()
+            //    .Add<FiftyPerCentStrategy>()
+            //    .Configure();
 
             return services;
         }

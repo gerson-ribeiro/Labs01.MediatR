@@ -6,3 +6,4 @@ B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR\bin\Debug\netcoreapp3.1\La
 B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR\obj\Debug\netcoreapp3.1\Labs01.MediatR.Commons.dll
 B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR\obj\Debug\netcoreapp3.1\Labs01.MediatR.Commons.pdb
 B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR\obj\Debug\netcoreapp3.1\Labs01.MediatR.Commons.csproj.CoreCompileInputs.cache
+B:\Users\Gerson\Sources\Labs01.MediatR\Labs01.MediatR\obj\Debug\netcoreapp3.1\Labs01.MediatR.Commons.csprojAssemblyReference.cache

@@ -1,4 +1,5 @@
 ﻿using Labs01.MediatR.Commons.Configurations.NotificationContext;
+using Labs01.MediatR.WebApp.MediatrConfigurations.Pipelines;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Newtonsoft.Json;

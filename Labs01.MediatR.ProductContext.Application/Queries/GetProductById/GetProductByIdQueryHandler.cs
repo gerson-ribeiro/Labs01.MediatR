@@ -29,6 +29,12 @@ namespace Labs01.MediatR.ProductContext.Application.Queries.GetProductById
                 ProductName = y.ProductName
             }).FirstOrDefault();
 
+            if (product == null)
+            {
+                _notificationContext.AddNotification("NADA ENCONTRADO", "ID NÃO ENCONTRADO");
+                return null;
+            }
+
             return Task.FromResult(product);
         }
     }
